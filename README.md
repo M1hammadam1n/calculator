@@ -1,16 +1,14 @@
-# flutter_application_1
+# Flutter Counter — простой счётчик
 
-A new Flutter project.
+Простой демонстрационный Flutter-приложение — интерактивный счётчик с набором действий:
+сброс, увеличение/уменьшение, случайное приращение, деление на 2 и возведение в квадрат.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚩 Особенности
+- Отображение текущего значения счётчика.
+- Кнопки: **Сброс**, **+**, **−**, **Run (случайное +)**, **/2**, **Квадрат**.
+- Простая структура: `setState` для управления состоянием.
+- Подходит как пример для изучения Flutter и работы с виджетами.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
